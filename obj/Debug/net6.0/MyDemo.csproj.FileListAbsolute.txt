@@ -1,0 +1,15 @@
+D:\source-code\c-sharp\MyDemo\bin\Debug\net6.0\MyDemo.exe
+D:\source-code\c-sharp\MyDemo\bin\Debug\net6.0\MyDemo.deps.json
+D:\source-code\c-sharp\MyDemo\bin\Debug\net6.0\MyDemo.runtimeconfig.json
+D:\source-code\c-sharp\MyDemo\bin\Debug\net6.0\MyDemo.dll
+D:\source-code\c-sharp\MyDemo\bin\Debug\net6.0\MyDemo.pdb
+D:\source-code\c-sharp\MyDemo\obj\Debug\net6.0\MyDemo.csproj.AssemblyReference.cache
+D:\source-code\c-sharp\MyDemo\obj\Debug\net6.0\MyDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\source-code\c-sharp\MyDemo\obj\Debug\net6.0\MyDemo.AssemblyInfoInputs.cache
+D:\source-code\c-sharp\MyDemo\obj\Debug\net6.0\MyDemo.AssemblyInfo.cs
+D:\source-code\c-sharp\MyDemo\obj\Debug\net6.0\MyDemo.csproj.CoreCompileInputs.cache
+D:\source-code\c-sharp\MyDemo\obj\Debug\net6.0\MyDemo.dll
+D:\source-code\c-sharp\MyDemo\obj\Debug\net6.0\refint\MyDemo.dll
+D:\source-code\c-sharp\MyDemo\obj\Debug\net6.0\MyDemo.pdb
+D:\source-code\c-sharp\MyDemo\obj\Debug\net6.0\MyDemo.genruntimeconfig.cache
+D:\source-code\c-sharp\MyDemo\obj\Debug\net6.0\ref\MyDemo.dll
